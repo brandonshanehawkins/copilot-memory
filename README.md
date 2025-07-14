@@ -28,7 +28,31 @@ Title: AI Agent Exploration
 
 Description: Development and testing of a task-logging agent with persistent memory, schema design, and workflow tracking.
 
-## 🛠️ Future Integration
+---
 
-This agent will eventually export daily logs in Markdown with YAML front matter, formatted for a Hugo-based static site. This will serve as a browsable, version-controlled archive of AI development work.
+---
+
+## 🗂 Project Index
+
+| Code        | Description                                 |
+|-------------|---------------------------------------------|
+| `EXAI`      | Exploratory AI                              |
+| `AIDE`      | AI Design & Exploration                     |
+| `INAI`      | Innovation + AI                             |
+| `LOOP`      | Internal Tools                              |
+| `WIKI`      | Internal Documentation & Knowledge Base     |
+
+---
+
+## 📘 Glossary
+
+| Abbreviation | Meaning                                      |
+|--------------|----------------------------------------------|
+| **EXAI**     | Exploratory AI (e.g., agent development)     |
+| **AIDE**     | AI Design & Exploration                      |
+| **INAI**     | Innovation + AI                              |
+| **LOOP**     | Internal tools or Loop-specific AI work      |
+| **WIKI**     | Internal Documentation & Knowledge Base      |
+| **NBLE**     | Non-Billable (general internal work)         |
+| **RFQ**      | Request for Quote                            |
 
