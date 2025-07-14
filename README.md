@@ -41,6 +41,7 @@ Description: Development and testing of a task-logging agent with persistent mem
 | `INAI`      | Innovation + AI                             |
 | `LOOP`      | Internal Tools                              |
 | `WIKI`      | Internal Documentation & Knowledge Base     |
+| `TTAI`      | Tech Talk Artificial Intelligence           |
 
 ---
 
